@@ -5,3 +5,5 @@
 - Example Output
 <img src="Images/Output.png" alt="Alt text" width="673" height="622">
 
+# the API key is hidden for security reasons
+- obtain your own from https://www.alphavantage.co/
